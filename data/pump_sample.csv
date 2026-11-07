@@ -1,1 +1,5 @@
-
+timestamp,temperature,vibration,pressure,flow_rate,status
+2026-01-01 08:00,45,0.30,120,40,Healthy
+2026-01-01 08:05,46,0.35,119,39,Healthy
+2026-01-01 08:10,52,0.70,110,35,Warning
+2026-01-01 08:15,60,1.10,95,25,Critical
